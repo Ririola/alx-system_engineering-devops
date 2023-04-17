@@ -1,4 +1,2 @@
 #!/bin/bash
-
-#Download and play star wars episode IV: ANew hope ASCII version 
 telnet towel.blinkenlights.nl 
